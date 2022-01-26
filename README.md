@@ -2,7 +2,6 @@
 A storage of my class work and personal projects while learning Assembly Code
 
 This set of basic programs for beginners that might be helpful to students learning Assembly Code for the first time. 
-
 It uses YASM for a class server and the Assembly Code is x86 64bit Linux Debian set up remotely through Visual Studio Code. 
 
 Week 1: Hello World
