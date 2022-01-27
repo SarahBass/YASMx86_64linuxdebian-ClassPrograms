@@ -13,6 +13,7 @@ Program     |  Description
 hello.s         |  basic one line "Hello, world!"
 asciihello.s  | basic multiple line prints, testing ascii , emoji, and spacing
 twohello.s   |  basic multiple line prints
+sbass.digs   | Logic Gates in Digital Program - 3 examples. See PNG.
 
 
 Week 2: TBD
